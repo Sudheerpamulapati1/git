@@ -1,0 +1,27 @@
+GIt - from Youtube video
+===================================================================================
+GIT version
+$ git --version
+-----------------------------
+GIT configuration
+$ git config --global user.name "Sudheer Pamulapati"
+$ git config --global user.email "spamulapati@linkedin.com"
+$ git config --list
+$ git help config
+$ git config --help
+---------------------------------------------------------------------------------
+Initializing git 
+$ git init
+
+
+
+
+
+
+
+
+
+
+
+
+
